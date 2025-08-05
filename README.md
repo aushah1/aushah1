@@ -20,7 +20,7 @@ I'm a passionate front-end web developer, currently diving deep into full-stack 
 - [🔗 Trendzy](https://trenddzy.netlify.app/) – An e-commerce platform with cart and product pages. 
 - [🔗 Sidcup Family Golf Clone](https://aushah1.github.io/Sidcup-Family-Golf-Clone/) – A web clone of Sidcup Family Golf's official website.
 - [🔗 FundAura](https://github.com/aushah1/FundAura) – FundAura is a Patreon-based platform I created to connect with supporters.
-- [🔗 Solstice]([#](https://github.com/aushah1/Solstice)) – A music player built using plain HTML, CSS and JavaScript
+- [🔗 Solstice]((https://github.com/aushah1/Solstice)) – A music player built using plain HTML, CSS and JavaScript
 
 ---
 
