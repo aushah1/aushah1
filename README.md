@@ -1,38 +1,60 @@
-# 👋 Hi, I'm Aushah Gowhar Wani
+<!-- Profile Header -->
+<h2 align="center">👋 Hi there, I'm <span style="color:#e6b800;">Aushah Gowhar Wani</span></h2>
+<h4 align="center">💻 Frontend Developer | MERN Stack Learner | Tech Enthusiast</h4>
 
-### 💻 Frontend Developer | MERN Stack Learner | Tech Enthusiast
-
-I'm a passionate front-end web developer, currently diving deep into full-stack web development with the **MERN stack**. I love building clean, responsive, and user-friendly websites and enjoy learning new technologies to improve my skills every day.
-
----
-
-### 🚀 Skills
-
-- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
-- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
-- **Tools:** Git, GitHub, VS Code, Postman  
-- **Currently Learning:** APIs, Next.js . 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FAD000&width=440&lines=Front-End+Developer;MERN+Stack+Learner;Tech+Enthusiast;Lifelong+Learner" />
+</p>
 
 ---
 
-### 📌 Projects
+### 🚀 Skills & Tools
 
-- [🔗 Trendzy](https://trenddzy.netlify.app/) – An e-commerce platform with cart and product pages. 
-- [🔗 Sidcup Family Golf Clone](https://aushah1.github.io/Sidcup-Family-Golf-Clone/) – A web clone of Sidcup Family Golf's official website.
-- [🔗 FundAura](https://github.com/aushah1/FundAura) – FundAura is a Patreon-based platform I created to connect with supporters.
-- [🔗 Solstice]((https://github.com/aushah1/Solstice)) – A music player built using plain HTML, CSS and JavaScript
+💻 **Frontend**:  
+`HTML` `CSS` `JavaScript` `Tailwind CSS` `React.js`
+
+🛠 **Backend**:  
+`Node.js` `Express.js` `MongoDB` `Mongoose`
+
+🧰 **Tools**:  
+`Git` `GitHub` `VS Code` `Postman`
+
+📚 **Currently Learning**:  
+`APIs` `Next.js`
 
 ---
 
-### 🌱 A Bit More About Me
+### 📌 Featured Projects
 
-- I enjoy experimenting with UI/UX
-- I prefer **clean code** and **minimalistic design**
-- I love building real-world projects and solving practical problems
+- 🔗 [**Trendzy**](https://trenddzy.netlify.app/) – E-commerce platform with cart and product features  
+- 🔗 [**Sidcup Family Golf Clone**](https://aushah1.github.io/Sidcup-Family-Golf-Clone/) – A pixel-perfect web clone  
+- 🔗 [**FundAura**](https://github.com/aushah1/FundAura) – A Patreon-style platform for creators  
+- 🔗 [**Solstice**](https://github.com/aushah1/Solstice) – A sleek music player built using HTML, CSS, and JS
 
 ---
 
-### 📫 Let's Connect  
-- Portfolio: https://aushah.netlify.app/
+### 🌱 A Bit About Me
 
-Thanks for visiting my profile! ⭐️
+✨ I enjoy experimenting with **UI/UX**  
+🧼 I prefer **clean code** and **minimal design**  
+💡 I love solving real-world problems through code  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aushah1&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aushah1&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: [aushah.netlify.app](https://aushah.netlify.app/)
+- 🐙 GitHub: [@aushah1](https://github.com/aushah1)
+
+---
+
+⭐️ *Thanks for visiting my GitHub! Feel free to drop a star if you like my work!*
