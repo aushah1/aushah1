@@ -11,17 +11,16 @@ I'm a passionate front-end web developer, currently diving deep into full-stack 
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js  
 - **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 - **Tools:** Git, GitHub, VS Code, Postman  
-- **Currently Learning:** APIs, Next.js, Android Development  
+- **Currently Learning:** APIs, Next.js . 
 
 ---
 
 ### 📌 Projects
 
-- [🔗 Solstice](#) – Music player built with HTML, CSS, JS  
-- [🔗 SyntaxHub](#) – Programming resources website  
-- [🔗 BrainFlare](#) – Study-focused educational site  
-- [🔗 TRENDZY](#) – E-commerce frontend in React  
-- [🔗 Linkly](#) – URL shortener with Next.js & MongoDB  
+- [🔗 Trendzy](https://trenddzy.netlify.app/) – An e-commerce platform with cart and product pages. 
+- [🔗 Sidcup Family Golf Clone](https://aushah1.github.io/Sidcup-Family-Golf-Clone/) – A web clone of Sidcup Family Golf's official website.
+- [🔗 FundAura](https://github.com/aushah1/FundAura) – FundAura is a Patreon-based platform I created to connect with supporters.
+- [🔗 Solstice]([#](https://github.com/aushah1/Solstice)) – A music player built using plain HTML, CSS and JavaScript
 
 ---
 
@@ -36,6 +35,6 @@ I'm a passionate front-end web developer, currently diving deep into full-stack 
 ### 📫 Let's Connect
 
 - Email: _Available on request_  
-- Portfolio: [Coming soon or insert link here]
+- Portfolio: https://aushah.netlify.app/
 
 Thanks for visiting my profile! ⭐️
