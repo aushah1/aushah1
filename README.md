@@ -32,9 +32,7 @@ I'm a passionate front-end web developer, currently diving deep into full-stack 
 
 ---
 
-### 📫 Let's Connect
-
-- Email: _Available on request_  
+### 📫 Let's Connect  
 - Portfolio: https://aushah.netlify.app/
 
 Thanks for visiting my profile! ⭐️
