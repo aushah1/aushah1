@@ -3,7 +3,7 @@
 <h4 align="center">💻 Frontend Developer | MERN Stack Learner | Tech Enthusiast</h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FAD000&width=440&lines=Front-End+Developer;MERN+Stack+Learner;Tech+Enthusiast;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FAD000&width=440&lines=Front-End+Developer;MERN+Stack+Learner;Tech+Enthusiast" />
 </p>
 
 ---
